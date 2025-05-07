@@ -1,3 +1,0 @@
-main
-	ADC_Read
-		Delay_22us
